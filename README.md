@@ -15,3 +15,11 @@
 💬 Ask me about **Anything <:**
 
  </div>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,js"/><br>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/><br>
+</div>
+<br/>
+
+<hr/>
